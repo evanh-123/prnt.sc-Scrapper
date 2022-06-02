@@ -7,8 +7,8 @@ mega = Mega()
 import os
 import shutil
 
-email = 'evanhodges2078@gmail.com'
-password = 'Qedz250E!'
+email = 'xx'
+password = 'xx'
 m = mega.login(email, password)
 
 def hello():
